@@ -90,6 +90,8 @@ a {
 .page-header {
   color: $header-heading-color;
   text-align: center;
+      background-position: center;
+    background-image: url(/assets/cover_header.jpg);
 
   @include large {
     padding: 5rem 6rem;
