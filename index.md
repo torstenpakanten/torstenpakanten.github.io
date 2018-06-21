@@ -8,3 +8,13 @@ layout: default
 <br><br>
 
 <iframe src='https://anchor.fm/torstenpakanten/embed/episodes/1--Hjlp-det-gr-fr-snabbt-e1kfo0' height='102px' width='320px' frameborder='0' scrolling='no'></iframe>
+
+<br><br>
+
+[Torsten på Acast](https://www.acast.com/torstenpakanten)
+[Torsten på Podcaster (iTunes)](https://itunes.apple.com/se/podcast/torsten-p%C3%A5-kanten/id1399463174?mt=2)
+[Torsten på Anchor](https://anchor.fm/torstenpakanten/)
+
+
+
+
