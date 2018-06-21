@@ -12,7 +12,9 @@ layout: default
 <br><br>
 
 [Torsten på Acast](https://www.acast.com/torstenpakanten)
+<br>
 [Torsten på Podcaster (iTunes)](https://itunes.apple.com/se/podcast/torsten-p%C3%A5-kanten/id1399463174?mt=2)
+<br>
 [Torsten på Anchor](https://anchor.fm/torstenpakanten/)
 
 
